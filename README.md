@@ -27,6 +27,6 @@ python activity_tracker.py
 ```
 - To review activities for a specific day 📆:
 ```sh
-        python fetch_activities.py
+python fetch_activities.py
 ```
-        - Follow the prompts to enter a date (YYYY-MM-DD) or press Enter to select today's date 🗓️.
+- Follow the prompts to enter a date (YYYY-MM-DD) or press Enter to select today's date 🗓️.
