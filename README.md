@@ -13,14 +13,20 @@ A Python-based 🐍 tool that prompts you 📣 every 20 minutes to log your curr
 
 1. **Clone the repository** 📂
    ```sh
-   git clone https://github.com/yourgithubusername/activity-tracker.git
+   git clone https://github.com/doomdagadiggiedahdah/act_track
    cd activity-tracker
    ```
 2. Install dependencies 📦
-`pip install tk schedule`
+```sh
+pip install tk schedule
+```
 3. Run the tracker 🖥️
 - To start logging activities:
-	- `python activity_tracker.py`
+```sh
+python activity_tracker.py
+```
 - To review activities for a specific day 📆:
-        - `python fetch_activities.py`
+```sh
+        python fetch_activities.py
+```
         - Follow the prompts to enter a date (YYYY-MM-DD) or press Enter to select today's date 🗓️.
