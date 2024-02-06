@@ -30,3 +30,10 @@ python activity_tracker.py
 python fetch_activities.py
 ```
 - Follow the prompts to enter a date (YYYY-MM-DD) or press Enter to select today's date 🗓️.
+
+## 🌟 Why Do This?? 🌈
+- Outside of the obvious reasons:
+   - 📝 Sometimes I want to tell people what I've been doing and I can't remember any of it. This tool helps jog my memory! 🧠
+   - 🎯 Sometimes people know exactly what they need in their life and sometimes need continuous reminders of what's important to them 🛎️ to keep up with the deluge of daily living. This gives you a one-stop shop 🏪 to see what you've accomplished in a day!
+   - 🕵️‍♂️ Finding out how you actually spend your time. Time tracking 🕒 made easy!
+   - 🚀 Keep track of working on what you want to be working on. Stay focused on your goals! 🎯
