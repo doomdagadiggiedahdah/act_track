@@ -23,7 +23,7 @@ pip install tk schedule sqlite3
 3. Run the tracker 🖥️
 - To start logging activities:
 ```sh
-python activity_tracker.py
+python main.py
 ```
 - To review activities for a specific day 📆:
 ```sh
