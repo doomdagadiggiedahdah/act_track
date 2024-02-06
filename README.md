@@ -14,7 +14,7 @@ A Python-based 🐍 tool that prompts you 📣 every 20 minutes to log your curr
 1. **Clone the repository** 📂
 ```sh
 git clone https://github.com/doomdagadiggiedahdah/act_track
-cd activity-tracker
+cd act_track
 ```
 2. Install dependencies 📦
 ```sh
